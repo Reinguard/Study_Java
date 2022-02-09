@@ -2,7 +2,7 @@ ID: 368
 Name: John
 Surname: Smith
 Age: 19
-Gender: [ 'male', 'female', 'unknown' ]
+Gender: male
 Favorite_subjects:
   - Math
   - Chemistry
@@ -13,6 +13,6 @@ Roommate: false
 Facultative:
   - Astronomy
   - Oratory
-Social_events: null
+Social_events: no
 Favorite_sport: Hockey
 Score: 99.9

@@ -3,11 +3,7 @@
   "Name": "John",
   "Surname": "Smith",
   "Age": 19,
-  "Gender": [
-    "male",
-    "female",
-    "unknown"
-  ],
+  "Gender": "male",
   "Favorite subjects": [
     "Math",
     "Chemistry",

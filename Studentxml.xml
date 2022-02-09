@@ -3,25 +3,21 @@
         Name = "John"
         Surname = "Smith"
         Age = "19"
-        <gender>
-            "male"
-            "female"
-            "unknown"
-        </gender>
+        <gender>"male"</gender>
     </personal>
     <subjects>
-        "Math"
-        "Chemistry"
-        "Physical_science"
-        "Biology"
+        <item>"Math"</item>
+        <item>"Chemistry"</item>
+        <item>"Physical_science"</item>
+        <item>"Biology"</item>
     </subjects>
     <dormitory>yes</dormitory>
     <roommate>no</roommate>
     <facultative>
-        "Astronomy"
-        "Oratory"
+        <item>"Astronomy"</item>
+        <item>"Oratory"</item>
     </facultative>
-    <social_events>null</social_events>
+    <social_events></social_events>
     <favorite_sport>"Hockey"</favorite_sport>
     <score>"99.9"</score>
 </students>

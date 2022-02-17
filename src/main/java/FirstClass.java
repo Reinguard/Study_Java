@@ -5,7 +5,8 @@ public class FirstClass {
 
 
         SecondClass secondClassInstance = new SecondClass();
-        System.out.println(secondClassInstance.returnString("---<i>---"));
+
+        System.out.println(secondClassInstance.returnString("---%d---"));
     }
 
 }
